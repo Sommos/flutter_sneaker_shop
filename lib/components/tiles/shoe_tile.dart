@@ -26,7 +26,7 @@ class ShoeTile extends StatelessWidget {
           ClipRRect(
             borderRadius: BorderRadius.circular(12.0),
             child: Image.asset(
-              shoe.imagepath, 
+              shoe.imagePath, 
               height: 200, 
               width: 200,
             ),
