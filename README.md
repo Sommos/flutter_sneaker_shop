@@ -13,6 +13,7 @@ Clone the repo:
     cd flutter_sneaker_shop
 
 <p float="left">
+    <img src="lib/images/readme/landing_page.png" width="250" />
     <img src="lib/images/readme/shop.png" width="250" />
     <img src="lib/images/readme/cart.png" width="250" />
 </p>
