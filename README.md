@@ -11,3 +11,6 @@ Clone the repo:
 
     git clone https://github.com/Sommos/flutter_sneaker_shop
     cd flutter_sneaker_shop
+
+<img src="images/readme/cart.png" width="100">
+<img src="images/readme/cart.png" width="100">
