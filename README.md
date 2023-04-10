@@ -12,7 +12,7 @@ Clone the repo:
     git clone https://github.com/Sommos/flutter_sneaker_shop
     cd flutter_sneaker_shop
 
-<p float="left">
+<p align="center">
     <img src="lib/images/readme/landing_page.png" width="250" />
     <img src="lib/images/readme/shop.png" width="250" />
     <img src="lib/images/readme/cart.png" width="250" />
