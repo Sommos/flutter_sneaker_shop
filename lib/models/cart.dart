@@ -58,7 +58,11 @@ class Cart extends ChangeNotifier {
 
   // remove item from cart
   void removeItemFromCart(Shoe shoe) {
-    userCart.remove(shoe);
+    if (userCart.contains(shoe)) {
+      userCart.remove(shoe);
+    } else {
+      debugPrint("Item does not contain any item in cart");
+    }
     notifyListeners();
   }
 }
