@@ -1,5 +1,5 @@
 # Flutter Sneaker Shop
-This program is to test flutter and dart, testing out a basic shop UI.
+This program is to test flutter and dart, testing out a basic shop UI/Nike mock-up.
 
 # Contribution 
 
